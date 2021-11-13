@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "mssql1": {
+      "resourceId": "/subscriptions/[parameters('subscriptionId')]/resourcegroups/[parameters('resourceGroupName')]/providers/Microsoft.Sql/servers/contosouniversity20211109dbservertest/databases/ContosoUniversity_db20211109",
+      "type": "mssql.azure",
+      "connectionId": "ConnectionStrings:SchoolContext",
+      "secretStore": "AzureAppSettings"
+    }
+  }
+}

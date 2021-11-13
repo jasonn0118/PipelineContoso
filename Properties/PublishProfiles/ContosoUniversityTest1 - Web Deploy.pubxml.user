@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAtjffB/0mbUu2IbXIZPWgRQAAAAACAAAAAAAQZgAAAAEAACAAAACEY+PeLlcd6DZwLE1feNJ1OuFgRRlHXo2NWnsjiVE46QAAAAAOgAAAAAIAACAAAAAHUoH76y5k3fRlzgN9wf23It5IWacyCgsdDWKyh1y9ioAAAACNZVgwCkd/1eQ2mLWhXk/Mlo8GD702uUKQROr68Iq2uvO8LsryMrW+6tF4U0dz+c4gyzj6vDLWkIkkec5pCc8638ihcYdim0nEAheuY+zZJMEvDQGfq8kILWit7n3GQOxTgb6vXR1aidGEzYYr7jJGSa/o9jyGIxIjniQg4KXvMkAAAABugcZbDdXhZyQ+/Lwpnl9Qbr8Pav7DC2ymfyBmiyQ0U5dxrvgkhrA374CLSD34pehBWAQDFuOwbNgkNDymUqML</EncryptedPassword>
+    <History>True|2021-11-10T06:47:06.4429686Z;False|2021-11-09T22:40:10.7576909-08:00;False|2021-11-09T22:30:47.9897968-08:00;False|2021-11-09T22:27:16.2181523-08:00;False|2021-11-09T22:21:22.1079293-08:00;</History>
+  </PropertyGroup>
+  <ItemGroup>
+    <EFMigrations Include="ContosoUniversity.Data.SchoolContext">
+      <Value>Data Source=tcp:contosouniversity20211109dbservertest.database.windows.net,1433%3bInitial Catalog=ContosoUniversity_db20211109%3bUser Id=Jason0118%40contosouniversity20211109dbservertest%3bPassword=TestPurpose!</Value>
+    </EFMigrations>
+  </ItemGroup>
+</Project>

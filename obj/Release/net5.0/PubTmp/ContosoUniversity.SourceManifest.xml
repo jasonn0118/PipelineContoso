@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<sitemanifest>
+  <IisApp path="D:\C_Sharp\dotnet AspNetCore.Docs main aspnetcore-data_ef-rp_intro_samples_cu50\obj\Release\net5.0\PubTmp\Out\" />
+  <dbfullsql path="D:\C_Sharp\dotnet AspNetCore.Docs main aspnetcore-data_ef-rp_intro_samples_cu50\obj\Release\net5.0\PubTmp\EFSQLScripts\ContosoUniversity.Data.SchoolContext.sql" />
+</sitemanifest>
